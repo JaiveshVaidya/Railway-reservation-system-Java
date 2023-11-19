@@ -1,0 +1,5 @@
+This railway reservation system using netbeans (Java)
+
+ - Import 2 jar files.
+ - Download Xampp for database.
+ - create tables according to code.
